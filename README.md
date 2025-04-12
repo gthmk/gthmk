@@ -1,11 +1,12 @@
 ## 👋 Hi, I’m Gautham  
 
-**Data Scientist & ML Engineer** building intelligent systems, one experiment at a time.
+**ML Engineer** building intelligent systems, one experiment at a time.
 
-- 📊 Turn data into signals & stories  
-- 🛠️ Build, tune & break ML models  
-- 📸 Vision • 🎧 Audio • 💬 LLMs  
-- 🕵🏽‍♂️ Detect deepfakes • 🔦 Red-team GenAI  
-- 🧑🏽‍🔧 Translate research into production  
+### 🔧 Focus Areas
+- 🛠️ Building, tuning, and stress-testing ML models  
+- 🚀 Pushing boundaries in vision, audio, and language modeling  
+- 🧱 Engineering safeguards for real-world AI deployment  
+- 📈 Crafting narratives from data-driven experiments  
+- 📦 Shipping production systems from ML research
 
 📬 **Contact Me:** `hi [at] gthmk [dot] dev`
