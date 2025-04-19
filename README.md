@@ -1,4 +1,4 @@
-👋🏽 Hi, I'm Gautham
+👋🏽 Hi, I'm Gautham!
 
 🌐 [gthmk.dev](https://gthmk.dev)
 
